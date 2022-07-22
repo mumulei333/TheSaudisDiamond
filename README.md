@@ -11,12 +11,12 @@ This project is a test project for TheSaudis
 
 1. Clone this repo:
 ```console
-git clone git@github.com:mudgen/diamond-1-hardhat.git
+git clone https://github.com/mumulei333/TheSaudisDiamond.git
 ```
 
 2. Install NPM packages:
 ```console
-cd diamond-1-hardhat
+cd TheSaudisDiamond
 npm install
 ```
 
